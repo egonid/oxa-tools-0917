@@ -81,7 +81,7 @@
             "value": "oxa-tools-0917"
         },
         "oxaToolsGithubBranch": {
-            "value": "master"
+            "value": "oxa/master.fic"
         },
         "edxConfigurationGithubAccountName": {
             "value": "Microsoft"
