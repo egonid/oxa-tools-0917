@@ -75,13 +75,13 @@
             "value": 1
         },
         "oxaToolsGithubAccountName": {
-            "value": "Microsoft"
+            "value": "egonid"
         },
         "oxaToolsGithubProjectName": {
-            "value": "oxa-tools"
+            "value": "oxa-tools-0917"
         },
         "oxaToolsGithubBranch": {
-            "value": "oxa/master.fic"
+            "value": "master"
         },
         "edxConfigurationGithubAccountName": {
             "value": "Microsoft"
